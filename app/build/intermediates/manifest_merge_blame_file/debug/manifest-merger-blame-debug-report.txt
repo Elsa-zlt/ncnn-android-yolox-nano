@@ -1,0 +1,52 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.tencent.ncnnyolox"
+4    android:versionCode="1"
+5    android:versionName="1.1" >
+6
+7    <uses-sdk android:minSdkVersion="24" />
+7-->E:\AndroidStudioProjects\ncnn-android-yolox\app\src\main\AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.CAMERA" />
+9-->E:\AndroidStudioProjects\ncnn-android-yolox\app\src\main\AndroidManifest.xml:6:5-65
+9-->E:\AndroidStudioProjects\ncnn-android-yolox\app\src\main\AndroidManifest.xml:6:22-62
+10
+11    <uses-feature android:name="android.hardware.camera2.full" />
+11-->E:\AndroidStudioProjects\ncnn-android-yolox\app\src\main\AndroidManifest.xml:7:5-66
+11-->E:\AndroidStudioProjects\ncnn-android-yolox\app\src\main\AndroidManifest.xml:7:19-63
+12
+13    <application
+13-->E:\AndroidStudioProjects\ncnn-android-yolox\app\src\main\AndroidManifest.xml:9:5-21:19
+14        android:debuggable="true"
+15        android:label="@string/app_name"
+15-->E:\AndroidStudioProjects\ncnn-android-yolox\app\src\main\AndroidManifest.xml:9:18-50
+16        android:testOnly="true" >
+17        <activity
+17-->E:\AndroidStudioProjects\ncnn-android-yolox\app\src\main\AndroidManifest.xml:10:9-12:20
+18            android:name="com.tencent.ncnnyolox.ImageSelectActivity"
+18-->E:\AndroidStudioProjects\ncnn-android-yolox\app\src\main\AndroidManifest.xml:10:19-53
+19            android:screenOrientation="portrait" >
+19-->E:\AndroidStudioProjects\ncnn-android-yolox\app\src\main\AndroidManifest.xml:11:19-55
+20        </activity>
+21        <activity
+21-->E:\AndroidStudioProjects\ncnn-android-yolox\app\src\main\AndroidManifest.xml:13:9-20:20
+22            android:name="com.tencent.ncnnyolox.MainActivity"
+22-->E:\AndroidStudioProjects\ncnn-android-yolox\app\src\main\AndroidManifest.xml:13:19-46
+23            android:label="@string/app_name"
+23-->E:\AndroidStudioProjects\ncnn-android-yolox\app\src\main\AndroidManifest.xml:14:19-51
+24            android:screenOrientation="portrait" >
+24-->E:\AndroidStudioProjects\ncnn-android-yolox\app\src\main\AndroidManifest.xml:15:19-55
+25            <intent-filter>
+25-->E:\AndroidStudioProjects\ncnn-android-yolox\app\src\main\AndroidManifest.xml:16:13-19:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->E:\AndroidStudioProjects\ncnn-android-yolox\app\src\main\AndroidManifest.xml:17:17-69
+26-->E:\AndroidStudioProjects\ncnn-android-yolox\app\src\main\AndroidManifest.xml:17:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->E:\AndroidStudioProjects\ncnn-android-yolox\app\src\main\AndroidManifest.xml:18:17-77
+28-->E:\AndroidStudioProjects\ncnn-android-yolox\app\src\main\AndroidManifest.xml:18:27-74
+29            </intent-filter>
+30        </activity>
+31    </application>
+32
+33</manifest>

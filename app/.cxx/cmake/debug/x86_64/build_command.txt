@@ -1,0 +1,19 @@
+Executable : E:\Android_SDK\SDK\cmake\3.10.2.4988404\bin\cmake.exe
+arguments : 
+-HE:\AndroidStudioProjects\ncnn-android-yolox\app\src\main\jni
+-BE:\AndroidStudioProjects\ncnn-android-yolox\app\.cxx\cmake\debug\x86_64
+-DANDROID_ABI=x86_64
+-DANDROID_PLATFORM=android-24
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=E:\AndroidStudioProjects\ncnn-android-yolox\app\build\intermediates\cmake\debug\obj\x86_64
+-DCMAKE_BUILD_TYPE=Debug
+-DANDROID_NDK=E:\Android_SDK\SDK\ndk\21.0.6113669
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_ANDROID_ARCH_ABI=x86_64
+-DCMAKE_SYSTEM_VERSION=24
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_ANDROID_NDK=E:\Android_SDK\SDK\ndk\21.0.6113669
+-DCMAKE_TOOLCHAIN_FILE=E:\Android_SDK\SDK\ndk\21.0.6113669\build\cmake\android.toolchain.cmake
+-G Ninja
+-DCMAKE_MAKE_PROGRAM=E:\Android_SDK\SDK\cmake\3.10.2.4988404\bin\ninja.exe
+jvmArgs : 
+

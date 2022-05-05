@@ -1,0 +1,68 @@
+{
+  "stringTable": {
+    "0": "C:/Tools/ncnn-android-yolox/app/.cxx/cmake/release/x86_64",
+    "1": "--target=x86_64-none-linux-android24 --gcc-toolchain=C:/Tools/APPData/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Tools/APPData/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dncnnyolox_EXPORTS -isystem C:/Tools/ncnn-android-yolox/app/src/main/jni/ncnn-20210720-android-vulkan/x86_64/include/ncnn -isystem C:/Tools/ncnn-android-yolox/app/src/main/jni/opencv-mobile-4.5.3-android/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O2 -DNDEBUG -fPIC -fno-rtti -fno-exceptions -std=gnu++11"
+  },
+  "buildFiles": [
+    "C:\\Tools\\ncnn-android-yolox\\app\\src\\main\\jni\\opencv-mobile-4.5.3-android\\sdk\\native\\jni\\OpenCVConfig.cmake",
+    "C:\\Tools\\ncnn-android-yolox\\app\\src\\main\\jni\\opencv-mobile-4.5.3-android\\sdk\\native\\jni\\abi-x86_64\\OpenCVConfig.cmake",
+    "C:\\Tools\\APPData\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Tools\\ncnn-android-yolox\\app\\src\\main\\jni\\ncnn-20210720-android-vulkan\\x86_64\\lib\\cmake\\SPIRVTargets-release.cmake",
+    "C:\\Tools\\ncnn-android-yolox\\app\\src\\main\\jni\\opencv-mobile-4.5.3-android\\sdk\\native\\jni\\abi-x86_64\\OpenCVModules.cmake",
+    "C:\\Tools\\ncnn-android-yolox\\app\\src\\main\\jni\\CMakeLists.txt",
+    "C:\\Tools\\APPData\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
+    "C:\\Tools\\ncnn-android-yolox\\app\\src\\main\\jni\\ncnn-20210720-android-vulkan\\x86_64\\lib\\cmake\\glslangTargets-release.cmake",
+    "C:\\Tools\\ncnn-android-yolox\\app\\src\\main\\jni\\opencv-mobile-4.5.3-android\\sdk\\native\\jni\\abi-x86_64\\OpenCVModules-release.cmake",
+    "C:\\Tools\\ncnn-android-yolox\\app\\src\\main\\jni\\ncnn-20210720-android-vulkan\\x86_64\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "C:\\Tools\\ncnn-android-yolox\\app\\src\\main\\jni\\ncnn-20210720-android-vulkan\\x86_64\\lib\\cmake\\OSDependentTargets-release.cmake",
+    "C:\\Tools\\ncnn-android-yolox\\app\\src\\main\\jni\\ncnn-20210720-android-vulkan\\x86_64\\lib\\cmake\\OGLCompilerTargets.cmake",
+    "C:\\Tools\\ncnn-android-yolox\\app\\src\\main\\jni\\ncnn-20210720-android-vulkan\\x86_64\\lib\\cmake\\glslangTargets.cmake",
+    "C:\\Tools\\ncnn-android-yolox\\app\\src\\main\\jni\\ncnn-20210720-android-vulkan\\x86_64\\lib\\cmake\\OSDependentTargets.cmake",
+    "C:\\Tools\\ncnn-android-yolox\\app\\src\\main\\jni\\ncnn-20210720-android-vulkan\\x86_64\\lib\\cmake\\OGLCompilerTargets-release.cmake",
+    "C:\\Tools\\ncnn-android-yolox\\app\\src\\main\\jni\\ncnn-20210720-android-vulkan\\x86_64\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "C:\\Tools\\ncnn-android-yolox\\app\\src\\main\\jni\\opencv-mobile-4.5.3-android\\sdk\\native\\jni\\OpenCVConfig-version.cmake",
+    "C:\\Tools\\ncnn-android-yolox\\app\\src\\main\\jni\\ncnn-20210720-android-vulkan\\x86_64\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "C:\\Tools\\ncnn-android-yolox\\app\\src\\main\\jni\\ncnn-20210720-android-vulkan\\x86_64\\lib\\cmake\\SPIRVTargets.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Tools\\APPData\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Tools\\ncnn-android-yolox\\app\\.cxx\\cmake\\release\\x86_64\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Tools\\APPData\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Tools\\ncnn-android-yolox\\app\\.cxx\\cmake\\release\\x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "ncnnyolox-Release-x86_64": {
+      "buildCommand": "C:\\Tools\\APPData\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Tools\\ncnn-android-yolox\\app\\.cxx\\cmake\\release\\x86_64\" ncnnyolox",
+      "buildType": "release",
+      "toolchain": "4293729501",
+      "abi": "x86_64",
+      "artifactName": "ncnnyolox",
+      "files": [
+        {
+          "src": "C:\\Tools\\ncnn-android-yolox\\app\\src\\main\\jni\\yoloxncnn.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Tools\\ncnn-android-yolox\\app\\src\\main\\jni\\yolox.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Tools\\ncnn-android-yolox\\app\\src\\main\\jni\\ndkcamera.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Tools\\ncnn-android-yolox\\app\\build\\intermediates\\cmake\\release\\obj\\x86_64\\libncnnyolox.so"
+    }
+  },
+  "toolchains": {
+    "4293729501": {
+      "cppCompilerExecutable": "C:\\Tools\\APPData\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

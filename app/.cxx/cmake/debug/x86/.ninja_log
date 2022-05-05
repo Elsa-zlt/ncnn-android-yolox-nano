@@ -1,0 +1,14 @@
+# ninja log v5
+1	966	656177733	CMakeFiles/ncnnyolox.dir/yoloxncnn.cpp.o	7de79b8df88cb70
+86	970	656177733	CMakeFiles/ncnnyolox.dir/ndkcamera.cpp.o	2fbde256ad1b6da2
+35	1116	656177733	CMakeFiles/ncnnyolox.dir/yolox.cpp.o	e2922fe330f7912e
+1117	1405	656177733	E:/AndroidStudioProjects/ncnn-android-yolox/app/build/intermediates/cmake/debug/obj/x86/libncnnyolox.so	65b81fc8a53e9cc6
+58	1047	657132944	CMakeFiles/ncnnyolox.dir/yoloxncnn.cpp.o	7de79b8df88cb70
+4	1160	657132944	CMakeFiles/ncnnyolox.dir/yolox.cpp.o	e2922fe330f7912e
+1160	1854	657132945	E:/AndroidStudioProjects/ncnn-android-yolox/app/build/intermediates/cmake/debug/obj/x86/libncnnyolox.so	65b81fc8a53e9cc6
+3	906	658423510	CMakeFiles/ncnnyolox.dir/yoloxncnn.cpp.o	7de79b8df88cb70
+40	1085	658423510	CMakeFiles/ncnnyolox.dir/yolox.cpp.o	e2922fe330f7912e
+1085	1710	658423511	E:/AndroidStudioProjects/ncnn-android-yolox/app/build/intermediates/cmake/debug/obj/x86/libncnnyolox.so	65b81fc8a53e9cc6
+38	977	664192020	CMakeFiles/ncnnyolox.dir/yoloxncnn.cpp.o	7de79b8df88cb70
+4	1078	664192020	CMakeFiles/ncnnyolox.dir/yolox.cpp.o	e2922fe330f7912e
+1078	1785	664192021	E:/AndroidStudioProjects/ncnn-android-yolox/app/build/intermediates/cmake/debug/obj/x86/libncnnyolox.so	65b81fc8a53e9cc6

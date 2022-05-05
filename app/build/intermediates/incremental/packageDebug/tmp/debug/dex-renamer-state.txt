@@ -1,0 +1,7 @@
+#Fri Mar 25 16:17:26 CST 2022
+base.1=E\:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+path.1=classes.dex
+base.0=E\:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

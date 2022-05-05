@@ -1,0 +1,66 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 24 min SDK version: armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found from cmake.dir at \u0027C:\\Tools\\APPData\\Android\\Sdk\\cmake\\3.10.2.4988404\u0027 had version \u00273.10.2\u0027"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON C:\\Tools\\ncnn-android-yolox\\app\\.cxx\\cmake\\release\\armeabi-v7a\\android_gradle_build.json due to:"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder"
+  },
+  {
+    "level": "INFO",
+    "message": "- a dependent build file changed"
+  },
+  {
+    "level": "INFO",
+    "message": "  - C:\\Tools\\APPData\\Android\\Sdk\\ndk\\23.0.7599858\\build\\cmake\\compiler_id.cmake"
+  },
+  {
+    "level": "INFO",
+    "message": "  - C:\\Tools\\APPData\\Android\\Sdk\\ndk\\23.0.7599858\\build\\cmake\\android-legacy.toolchain.cmake"
+  },
+  {
+    "level": "INFO",
+    "message": "  - C:\\Tools\\APPData\\Android\\Sdk\\ndk\\23.0.7599858\\build\\cmake\\platforms.cmake"
+  },
+  {
+    "level": "INFO",
+    "message": "  - C:\\Tools\\APPData\\Android\\Sdk\\ndk\\23.0.7599858\\build\\cmake\\android.toolchain.cmake"
+  },
+  {
+    "level": "INFO",
+    "message": "removing stale contents from \u0027C:\\Tools\\ncnn-android-yolox\\app\\.cxx\\cmake\\release\\armeabi-v7a\u0027"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027C:\\Tools\\ncnn-android-yolox\\app\\.cxx\\cmake\\release\\armeabi-v7a\u0027"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : C:\\Tools\\APPData\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe\narguments : \n-HC:\\Tools\\ncnn-android-yolox\\app\\src\\main\\jni\n-BC:\\Tools\\ncnn-android-yolox\\app\\.cxx\\cmake\\release\\armeabi-v7a\n-DANDROID_ABI\u003darmeabi-v7a\n-DANDROID_PLATFORM\u003dandroid-24\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\Tools\\ncnn-android-yolox\\app\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\n-DCMAKE_BUILD_TYPE\u003dRelease\n-DANDROID_NDK\u003dC:\\Tools\\APPData\\Android\\Sdk\\ndk\\21.0.6113669\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a\n-DCMAKE_SYSTEM_VERSION\u003d24\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_ANDROID_NDK\u003dC:\\Tools\\APPData\\Android\\Sdk\\ndk\\21.0.6113669\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Tools\\APPData\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake\n-G Ninja\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Tools\\APPData\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe\njvmArgs : \n\n"
+  },
+  {
+    "level": "INFO",
+    "message": "done executing cmake"
+  },
+  {
+    "level": "INFO",
+    "message": "write build output C:\\Tools\\ncnn-android-yolox\\app\\.cxx\\cmake\\release\\armeabi-v7a\\build_output.txt"
+  },
+  {
+    "level": "INFO",
+    "message": "write command file C:\\Tools\\ncnn-android-yolox\\app\\.cxx\\cmake\\release\\armeabi-v7a\\build_command.txt"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems"
+  }
+]

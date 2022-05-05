@@ -1,0 +1,7 @@
+Executable : C:\Tools\APPData\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Tools\ncnn-android-yolox\app\.cxx\cmake\release\x86_64
+ncnnyolox
+jvmArgs : 
+

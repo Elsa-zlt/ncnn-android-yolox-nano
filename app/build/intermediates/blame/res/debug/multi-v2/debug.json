@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "7,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "225,103,55",
+                        "endLines": "10,6,2",
+                        "endColumns": "19,19,47",
+                        "endOffsets": "329,220,98"
+                    },
+                    "to": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,164,286",
+                        "endLines": "5,9,10",
+                        "endColumns": "19,19,47",
+                        "endOffsets": "159,281,329"
+                    }
+                }
+            ]
+        }
+    ]
+}

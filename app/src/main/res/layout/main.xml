@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+    <Button
+        android:id="@+id/buttonSwitchCamera"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="切换摄像头"
+        android:textSize="15sp"
+        android:textColor="#FFFFFF"
+        android:background="#ff4c41"
+        />
+
+    <Button
+        android:id="@+id/buttonImage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="选择图片"
+        android:textSize="15sp"
+        android:textColor="#FFFFFF"
+        android:background="#1A73E8"
+        android:layout_marginLeft="15dp"
+        />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+    <Spinner
+        android:id="@+id/spinnerModel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawSelectorOnTop="true"
+        android:entries="@array/model_array" />
+
+    <Spinner
+        android:id="@+id/spinnerCPUGPU"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawSelectorOnTop="true"
+        android:entries="@array/cpugpu_array" />
+
+    </LinearLayout>
+
+    <SurfaceView
+          android:id="@+id/cameraview"
+          android:layout_width="fill_parent"
+          android:layout_height="fill_parent" />
+
+</LinearLayout>

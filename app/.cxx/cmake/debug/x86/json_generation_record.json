@@ -1,0 +1,18 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 24 min SDK version: x86"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found from cmake.dir at \u0027E:\\Android_SDK\\SDK\\cmake\\3.10.2.4988404\u0027 had version \u00273.10.2\u0027"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON \u0027E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\.cxx\\cmake\\debug\\x86\\android_gradle_build.json\u0027 was up-to-date"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems"
+  }
+]

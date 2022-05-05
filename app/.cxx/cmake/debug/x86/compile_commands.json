@@ -1,0 +1,19 @@
+[
+{
+  "directory": "E:/AndroidStudioProjects/ncnn-android-yolox/app/.cxx/cmake/debug/x86",
+  "command": "E:\\Android_SDK\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android24 --gcc-toolchain=E:/Android_SDK/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/Android_SDK/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dncnnyolox_EXPORTS -isystem E:/AndroidStudioProjects/ncnn-android-yolox/app/src/main/jni/ncnn-20210720-android-vulkan/x86/include/ncnn -isystem E:/AndroidStudioProjects/ncnn-android-yolox/app/src/main/jni/opencv-mobile-4.5.3-android/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -fno-rtti -fno-exceptions -std=gnu++11 -o CMakeFiles\\ncnnyolox.dir\\yoloxncnn.cpp.o -c E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\src\\main\\jni\\yoloxncnn.cpp",
+  "file": "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\src\\main\\jni\\yoloxncnn.cpp"
+},
+
+{
+  "directory": "E:/AndroidStudioProjects/ncnn-android-yolox/app/.cxx/cmake/debug/x86",
+  "command": "E:\\Android_SDK\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android24 --gcc-toolchain=E:/Android_SDK/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/Android_SDK/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dncnnyolox_EXPORTS -isystem E:/AndroidStudioProjects/ncnn-android-yolox/app/src/main/jni/ncnn-20210720-android-vulkan/x86/include/ncnn -isystem E:/AndroidStudioProjects/ncnn-android-yolox/app/src/main/jni/opencv-mobile-4.5.3-android/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -fno-rtti -fno-exceptions -std=gnu++11 -o CMakeFiles\\ncnnyolox.dir\\yolox.cpp.o -c E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\src\\main\\jni\\yolox.cpp",
+  "file": "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\src\\main\\jni\\yolox.cpp"
+},
+
+{
+  "directory": "E:/AndroidStudioProjects/ncnn-android-yolox/app/.cxx/cmake/debug/x86",
+  "command": "E:\\Android_SDK\\SDK\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android24 --gcc-toolchain=E:/Android_SDK/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/Android_SDK/SDK/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dncnnyolox_EXPORTS -isystem E:/AndroidStudioProjects/ncnn-android-yolox/app/src/main/jni/ncnn-20210720-android-vulkan/x86/include/ncnn -isystem E:/AndroidStudioProjects/ncnn-android-yolox/app/src/main/jni/opencv-mobile-4.5.3-android/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -fno-rtti -fno-exceptions -std=gnu++11 -o CMakeFiles\\ncnnyolox.dir\\ndkcamera.cpp.o -c E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\src\\main\\jni\\ndkcamera.cpp",
+  "file": "E:\\AndroidStudioProjects\\ncnn-android-yolox\\app\\src\\main\\jni\\ndkcamera.cpp"
+}
+]

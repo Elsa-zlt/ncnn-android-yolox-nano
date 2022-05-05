@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Tools\\ncnn-android-yolox\\app\\build\\intermediates\\res\\merged\\release\\layout_main.xml.flat",
+        "source": "C:\\Tools\\ncnn-android-yolox\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Tools\\ncnn-android-yolox\\app\\build\\intermediates\\res\\merged\\release\\layout_image_select.xml.flat",
+        "source": "C:\\Tools\\ncnn-android-yolox\\app\\src\\main\\res\\layout\\image_select.xml"
+    }
+]
